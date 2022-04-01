@@ -1,0 +1,16 @@
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/studiohome/.rubies/ruby-2.7.5/bin/ruby -I /Users/studiohome/.rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220401-13893-h59pyo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20220401-13893-gxg5p9

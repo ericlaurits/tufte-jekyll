@@ -1,0 +1,16 @@
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/studiohome/.rubies/ruby-2.7.5/bin/ruby -I /Users/studiohome/.rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220401-11409-dhfsp2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/studiohome/GitHub/tufte-jekyll/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220401-11409-1ntmf1s
