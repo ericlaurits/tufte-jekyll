@@ -6,7 +6,7 @@ categories: teaching elementary
 ---
 ## Where to begin?
 
-{% newthought 'There is a lot of conversation'} about where the conversation might start.
+{% newthought 'There is a lot of conversation' %} about where the conversation might start.
 
 This conversation is the conversation surrounding **race** in the elementary school classroom.
 
